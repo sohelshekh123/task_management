@@ -4,6 +4,8 @@ An application used to manage task using React.js.
 It allows users to create, view, update, and delete tasks. 
 Each task has a title, description, due date, and status (e.g., To Do, In Progress, Done)
 
+## Preview
+You can find live preview of this on - https://task-management-five-mauve.vercel.app/
 
 ## Installation and Setup Instructions
 
